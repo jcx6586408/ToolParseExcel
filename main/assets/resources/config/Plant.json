@@ -1,0 +1,1 @@
+{"name":"Plant","Excel":{"1":[1,"太阳花",["Produce","Hp","GameCard"],[1,1,1],"卡片","spine/plant/sunflower"],"2":[2,"玫瑰剑士",["Atk","Hp","GameCard"],[2,1,2],"卡片","spine/plant/roseSword"]},"attributeNames":["ID","name","natureTypes","natures","describe","url"]}

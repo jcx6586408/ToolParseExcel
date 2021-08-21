@@ -1,0 +1,1 @@
+{"name":"GameCard","Excel":{"1":[1,50,5,1,"texture/plant/sunflower/spriteFrame",0],"2":[2,100,10,1,"texture/plant/redRose/spriteFrame",1]},"attributeNames":["ID","Price","CD","MaxStock","Url","IsCD"]}
